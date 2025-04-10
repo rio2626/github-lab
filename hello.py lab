@@ -1,0 +1,8 @@
+print('Hello, what is your name?')
+name = input("name:Jamario") #Get user input
+print(f'Hello,(Jamario)! Welcome to Python programming.') #Print greeting message
+greeting='Hello,World!'
+print(greeting.upper()) #Convert to uppercase
+print(greeting.lower()) #Convert to lowercase
+print(greeting.replace("World","Python")) #Replace "World" with "Python"
+#This program greets the user
